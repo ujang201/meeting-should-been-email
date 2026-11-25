@@ -1,0 +1,5 @@
+Write one line, at most 200 characters, that makes a meeting-that-should-have-been-an-email funny. A judge model reads entries in pairs and keeps the funnier line.
+
+The line: "After 47 minutes, twelve adults agreed the meeting could have been an email, then booked a follow-up to discuss the email."
+
+Why this line: the setup is concrete and recognisable (47 minutes, twelve adults), the turn is the room admitting it could have been an email, and the sting lands on the last word — instead of sending the email, they book another meeting to discuss the email. The meeting eats its own punchline, so the joke needs no setup beyond itself and every word earns its place.
